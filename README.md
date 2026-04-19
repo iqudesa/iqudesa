@@ -1,11 +1,11 @@
-# 💼 IquDesa | Senior DevOps + FinOps
+# 💼 IquDesa | FinOps Automation Specialist (Analyst, BI Developer, ERP Integration)
 
-Senior in finance. 40+ investment projects. 1000+ financial models
+Senior in finance. 40+ investment projects. 100+ financial models
 
 **Skills:**
-- DevOps: Python, Bash, Docker, CI/CD
-- Finance: Project Finance, P&L, Excel (advanced)
-- Integration: 1C ↔ Telegram, ETL pipelines
+- FinOps: Excel, Google sheets (advanced)
+- Finance: Project Finance, P&L, cashflow, KPI
+- Integration: 1C ↔ Telegram, ETL pipelines,
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=[iqudesa]&show_icons=true)
 
