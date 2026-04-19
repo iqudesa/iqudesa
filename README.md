@@ -12,3 +12,5 @@ Senior in finance. 40+ investment projects. 100+ financial models
 **Projects:**
 - [1C-Telegram Integration Demo](https://github.com/iqudesa/1c-telegram-demo)
 - [Finance Models](https://github.com/iqudesa/finance-models)
+- [Finance Dashboard](https://img.shields.io/badge/Finance-Dashboard-blue)](finance-models) — DCF/LBO/Budget  
+- [1C-Telegram](https://img.shields.io/badge/1C-Telegram-green)](1c-telegram-demo) — 1C parser → notifications
