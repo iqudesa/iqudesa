@@ -5,7 +5,7 @@ Senior in finance. 40+ investment projects. 100+ financial models
 **Skills:**
 - FinOps: Excel, Google sheets (advanced)
 - Finance: Project Finance, P&L, cashflow, KPI
-- Integration: 1C ↔ Telegram, ETL pipelines,
+- Integration: 1C ↔ Telegram, ETL pipelines, REST/JSON API, automation of business processes in 1C, data extraction and transformation, cron jobs, logging and monitoring, basic DevOps (Docker, CI/CD), security of API tokens and bot access.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=[iqudesa]&show_icons=true)
 
