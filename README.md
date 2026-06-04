@@ -22,7 +22,7 @@
 | Project | Description | Status |
 |---|---|---|
 | [**FinModel**](https://fin-model-sable.vercel.app/) | Web app for financial modeling and investment evaluation. MVP is live. | ✅ Live |
-| [**AI Finance Assistant**](https://github.com/iqudesa/ai-finance-assistant) | AI-powered assistant for financial analysis, reporting, and decision support | 🔧 In progress |
+| [**AI Finance Assistant**](https://github.com/iqudesa/AI-Finance-Assistant) | AI-powered assistant for financial analysis, reporting, and decision support | 🔧 In progress |
 | [**Business Automation Portfolio**](https://github.com/iqudesa/business-automation-portfolio) | Real-world cases: management accounting, reporting automation, process optimization | 📂 Published |
 
 ---
